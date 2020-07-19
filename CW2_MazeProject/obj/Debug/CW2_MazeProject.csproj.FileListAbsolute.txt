@@ -12,3 +12,10 @@ E:\CW2_Programming\CW2_MazeProject\CW2_MazeProject\obj\Debug\CW2_MazeProject.csp
 E:\CW2_Programming\CW2_MazeProject\CW2_MazeProject\obj\Debug\CW2_MazeProject.csproj.CoreCompileInputs.cache
 E:\CW2_Programming\CW2_MazeProject\CW2_MazeProject\obj\Debug\CW2_MazeProject.exe
 E:\CW2_Programming\CW2_MazeProject\CW2_MazeProject\obj\Debug\CW2_MazeProject.pdb
+D:\Users\jorda\Documents\GitHub\ConsoleBasedMazeSolver\CW2_MazeProject\bin\Debug\CW2_MazeProject.exe.config
+D:\Users\jorda\Documents\GitHub\ConsoleBasedMazeSolver\CW2_MazeProject\bin\Debug\CW2_MazeProject.exe
+D:\Users\jorda\Documents\GitHub\ConsoleBasedMazeSolver\CW2_MazeProject\bin\Debug\CW2_MazeProject.pdb
+D:\Users\jorda\Documents\GitHub\ConsoleBasedMazeSolver\CW2_MazeProject\obj\Debug\CW2_MazeProject.csprojAssemblyReference.cache
+D:\Users\jorda\Documents\GitHub\ConsoleBasedMazeSolver\CW2_MazeProject\obj\Debug\CW2_MazeProject.csproj.CoreCompileInputs.cache
+D:\Users\jorda\Documents\GitHub\ConsoleBasedMazeSolver\CW2_MazeProject\obj\Debug\CW2_MazeProject.exe
+D:\Users\jorda\Documents\GitHub\ConsoleBasedMazeSolver\CW2_MazeProject\obj\Debug\CW2_MazeProject.pdb
